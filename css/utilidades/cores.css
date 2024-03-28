@@ -12,10 +12,11 @@
   --cor-10: #2e2e2e;
   --cor-11: #111111;
   --cor-12: #000000;
-  --cor-p1: #aaaaaa;
-  --cor-p2: #cccccc;
-  --cor-p3: #a3a3a3;
-  --cor-p4: #b2b2b2;
+  --cor-p1: #7251b5;
+  --cor-p2: #b185db;
+  --cor-p3: #815ac0;
+  --cor-p4: #c19ee0;
+  --cor-p5: #6247aa;
 }
 
 .cor-0 {
@@ -84,4 +85,8 @@
 
 .cor-p4 {
   color: var(--cor-p4);
+}
+
+.cor-p5 {
+  color: var(--cor-p5);
 }

@@ -9,3 +9,6 @@
 
 /* Home */
 @import "./home/introducao.css";
+
+/* Celulares */
+@import "./celulares/celulares-lista.css";
